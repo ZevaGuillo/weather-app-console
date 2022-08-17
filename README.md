@@ -1,0 +1,2 @@
+# Aplicación de clima
+Se crea una aplicación de consola interactiva donde se hace un llamado a la API de mapbox, que nos va a traer los posibles lugares que coinciden con el término de búsqueda, y nos regresa la longitud y latitud para después traer información del clima de la API de openWeather.
